@@ -1,6 +1,6 @@
 # Hex Calculator
 
-This application was created using aid from AI
+This application was created with the aid of AI
 
 A simple command-line hexadecimal calculator that performs basic arithmetic operations.
 
