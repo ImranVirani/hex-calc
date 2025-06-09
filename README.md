@@ -1,5 +1,7 @@
 # Hex Calculator
 
+This application was created using aid from AI
+
 A simple command-line hexadecimal calculator that performs basic arithmetic operations.
 
 ## Features
